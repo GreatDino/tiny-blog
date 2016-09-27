@@ -13,6 +13,8 @@ date: 2016-09-27
 
 Bon, c'est vrai, je mets un peu de temps à mettre tout cela en ligne... Mais ça arrive ! J'ai encore d'autres pages à poster, des photos à trier, et petit à petit ce blog se remplira ^_____^
 
+Ah et le nom du quartier - que j'ai oublié de noter au moment de prendre la photo - c'est Sanlitun (三里屯) ! Bien, bien chouette !
+
 Eeeeet ci-dessous la photo dudit splendide vélo :D (... qui commence déjà à se rouiller ^^'')
 
 ![Figure](/tiny-blog/assets/posts/2016-09-27-Metro-velo-porridgeVomito/velo.png)

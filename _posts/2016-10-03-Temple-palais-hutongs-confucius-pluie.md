@@ -16,12 +16,12 @@ Et demain je vais à Tianjin avec ma colloque, une ville à 30 min de Pékin. À
 
 ![Figure](/tiny-blog/assets/posts/2016-10-03-Temple-palais-hutongs-confucius-pluie/hutong.png)
 <figure>
-	<figcaption>Figure 0. Les hutongs. Confucius à gauche essaie de mimer un oiseau avec ses mains.</figcaption>
+	<figcaption>Figure 0. Les hutongs. Confucius à droite essaie de mimer un oiseau avec ses mains.</figcaption>
 </figure>
 
 ![Figure](/tiny-blog/assets/posts/2016-10-03-Temple-palais-hutongs-confucius-pluie/temple.png)
 <figure>
-	<figcaption>Figure 1. Le temple Lama, et l'encens qu'il ne faut pas allumer en cas de pic de pollution.</figcaption>
+	<figcaption>Figure 1. Le temple Lama, et l'encens qu'il ne faut pas allumer en cas de pics de pollution.</figcaption>
 </figure>
 
 ![Figure](/tiny-blog/assets/posts/2016-10-03-Temple-palais-hutongs-confucius-pluie/sumpal.png)

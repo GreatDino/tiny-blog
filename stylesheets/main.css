@@ -123,7 +123,7 @@ img[alt="Figure"] {
 
 .PageNavigation {
     font-family:'openSansCondensed', 'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 1.5px;
+    font-size: 1.5em;
     display: block;
     width: auto;
     overflow: hidden;
